@@ -1,4 +1,4 @@
-
+Հետևյալ խնդիրը պահանջում է լուծել գաղտանգրման շաբլոն մեթոդով:
 #include <iostream>
 #include <string>
 using namespace std;
